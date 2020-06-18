@@ -1,0 +1,9 @@
+tensorflow
+tensorlayer
+tensorboard
+opencv
+imutils
+sklearn
+scipy
+sklearn
+numpy
